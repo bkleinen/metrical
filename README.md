@@ -1,3 +1,10 @@
+# This is a fork of the "original" metrical which can be found here:
+https://github.com/iain/metrical/
+
+I've described my intentions in an issue there:
+
+https://github.com/iain/metrical/issues/16
+
 ## Warning: This gem is not being maintained anymore!
 
 I work exclusively with Ruby 1.9, and most tools included don't (fully) support it.
